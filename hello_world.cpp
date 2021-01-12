@@ -1,13 +1,13 @@
 #include <iostream>
 #include <string>
   
-  using namespace std;
+using namespace std;
 
-  int main()
-  {
+int main()
+{
       string s;
-      s = "Hello world";
+      s = "Hello World.";
       cout << s << endl;
       system("PAUSE");
       return 0;
-  }
+}
